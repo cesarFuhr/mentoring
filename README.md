@@ -6,11 +6,16 @@ Este repositório busca ser uma lista curada de conteúdo para guiar o início d
 
 ## Structure
 
-- general/          -> general topics on programming and software engineering.
-- languages/{lang}  -> language specific resources.
-
-- general/          -> tópicos gerais sobre programação e engenharia de software.
-- languages/{lang}  -> conteúdo voltado a uma linguagem especifica.
+```
+  en
+  general/          -> general topics on programming and software engineering.
+  languages/{lang}  -> language specific resources.
+```
+```
+  pt-br
+  general/          -> tópicos gerais sobre programação e engenharia de software.
+  languages/{lang}  -> conteúdo voltado a uma linguagem especifica.
+```
 
 ## Rules on adding content
 
