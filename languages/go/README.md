@@ -8,12 +8,16 @@
 
 ### Tutoriais
 - https://www.youtube.com/c/AprendaGo
+- https://larien.gitbook.io/aprenda-go-com-testes/
 
 ## EN
 
 ### Official
 - https://golang.org/doc/
 - https://tour.golang.org/
+
+### Tutorials
+- https://quii.gitbook.io/learn-go-with-tests/
 
 ### Blogs
 - https://www.ardanlabs.com/blog/
