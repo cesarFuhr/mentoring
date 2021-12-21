@@ -3,25 +3,26 @@
 ## PT-BR
 
 ### Oficial
-- https://go-tour-br.appspot.com/
-- http://www.golangbr.org/doc/
+- Go Tour: https://go-tour-br.appspot.com/
+- Go Doc: http://www.golangbr.org/doc/
 
 ### Tutoriais
-- https://www.youtube.com/c/AprendaGo
-- https://larien.gitbook.io/aprenda-go-com-testes/
+- Aprenda Go: https://www.youtube.com/c/AprendaGo
+- Aprenda Go Com Testes: https://larien.gitbook.io/aprenda-go-com-testes/
 
 ## EN
 
 ### Official
-- https://golang.org/doc/
-- https://tour.golang.org/
+- Go Tour: https://tour.golang.org/
+- Go Doc: https://golang.org/doc/
 
 ### Tutorials
-- https://quii.gitbook.io/learn-go-with-tests/
+- Learn Go with Tests: https://quii.gitbook.io/learn-go-with-tests/
 
 ### Blogs
-- https://www.ardanlabs.com/blog/
-- https://golangweekly.com/
+- ArdanLabs: https://www.ardanlabs.com/blog/
+- Weekly: https://golangweekly.com/
+- Mine... : https://cesarfuhr.dev/
 
 ### Videos
 - Simplicity is Complicated: https://youtu.be/rFejpH_tAHM
